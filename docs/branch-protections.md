@@ -1,6 +1,6 @@
 # Github Branch Protections
 
-- [Branch Protections](https://docs.github.com/en/enterprise-server@3.0/github/administering-a-repository/managing-a-branch-protection-rule)
+- [Branch Protections](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule)
 
 A great starting point is to require at least one approval before merging to master:
 
